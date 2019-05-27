@@ -38,28 +38,28 @@ formatter.match({
   "location": "LoginStepDefination.user_is_already_on_facebook_loginpage()"
 });
 formatter.result({
-  "duration": 30229778866,
+  "duration": 35516172527,
   "status": "passed"
 });
 formatter.match({
   "location": "LoginStepDefination.user_enter_usename()"
 });
 formatter.result({
-  "duration": 1302494070,
+  "duration": 1485027046,
   "status": "passed"
 });
 formatter.match({
   "location": "LoginStepDefination.user_enter_password()"
 });
 formatter.result({
-  "duration": 86131016,
+  "duration": 96852414,
   "status": "passed"
 });
 formatter.match({
   "location": "LoginStepDefination.user_click_on_login_button()"
 });
 formatter.result({
-  "duration": 31672399094,
+  "duration": 34447564643,
   "status": "passed"
 });
 });
